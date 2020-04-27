@@ -1,0 +1,6 @@
+library/
+local/
+profiles/
+temp/
+package.json
+tsconfig.json
